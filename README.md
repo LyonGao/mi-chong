@@ -7,18 +7,30 @@ mi宠是一个宠物社交平台,帮助狗狗找到主人,像家人一样爱你!
 
 # 运行方法
 1.新建文件夹
+
 mkdir michong && cd mkdir
+
 2.命令行运行
+
 ```shell
 git clone git@github.com:LyonGao/mi-chong.git 
 ```
+
 3.进入mi宠根文件夹
+
 cd mi-chong
+
 4.安装包
+
 npm install
+
 5.打包
+
 npm run dev
+
 6.运行
+
 npm run server
+
 7.打开浏览器输入127.0.0.1:8090,查看页面效果.
 
