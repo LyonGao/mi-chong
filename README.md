@@ -8,7 +8,7 @@ mi宠是一个宠物社交平台,帮助狗狗找到主人,像家人一样爱你!
 # 运行方法
 1.新建文件夹
 
-mkdir michong && cd mkdir
+mkdir michong && cd michong
 
 2.命令行运行
 
