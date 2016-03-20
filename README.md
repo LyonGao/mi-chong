@@ -18,19 +18,27 @@ git clone git@github.com:LyonGao/mi-chong.git
 
 3.进入mi宠根文件夹
 
+```shell
 cd mi-chong
+```
 
 4.安装包
 
+```shell
 npm install
+```
 
 5.打包
 
+```shell
 npm run dev
+```
 
 6.运行
 
+```shell
 npm run server
+```
 
 7.打开浏览器输入127.0.0.1:8090,查看页面效果.
 
